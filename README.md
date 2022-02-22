@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Files to be downloaded and open with the project folder
+
+Download and place the node_modules folder (node_modules.zip) which I attached in the email I sent you containing the repository link
+
 ## Available Scripts
 
 In the project directory, you can run:
